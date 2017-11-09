@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+}
+
+header{
+    background-color: #3498DB;
+    width: 100%;
+    position: fixed;
+
+}
+.Img__Menu{
+    width: 30px;
+    margin: 5%;
+}
+.Img__logo{
+    width: 150px;
+    position: absolute;
+    left: 50%; 
+    bottom: 0;
+    transform: translateX(-50%);
+
+}
+.conteudo{
+    padding-top: 110px;
+}
